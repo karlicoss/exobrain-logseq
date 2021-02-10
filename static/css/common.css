@@ -38,6 +38,7 @@ html[data-theme=dark] {
   --ls-block-ref-link-text-color: #1a6376;
   --ls-search-background-color: var(--ls-primary-background-color);
   --ls-border-color: #0e5263;
+  --ls-secondary-border-color: #126277;
   --ls-guideline-color: #0b4a5a;
   --ls-menu-hover-color: var(--ls-secondary-background-color);
   --ls-primary-text-color: #a4b5b6;
@@ -61,8 +62,8 @@ html[data-theme=dark] {
   --ls-page-blockquote-border-color: var(--ls-border-color);
   --ls-page-inline-code-color: var(--ls-primary-text-color);
   --ls-page-inline-code-bg-color: #01222a;
-  --ls-scrollbar-foreground-color: rgba(255, 255, 255, 0.1);
-  --ls-scrollbar-background-color: rgba(255, 255, 255, 0.05);
+  --ls-scrollbar-foreground-color: rgba(255, 255, 255, 0.05);
+  --ls-scrollbar-background-color: rgba(30, 60, 67, 0.9);
   --ls-scrollbar-thumb-hover-color: rgba(255, 255, 255, 0.2);
   --ls-head-text-color: var(--ls-link-text-color);
   --ls-icon-color: var(--ls-link-text-color);
@@ -90,6 +91,7 @@ html[data-theme=light] {
   --ls-block-ref-link-text-color: #D8E1E8;
   --ls-search-background-color: var(--ls-primary-background-color);
   --ls-border-color: #ccc;
+  --ls-secondary-border-color: #e2e2e2;
   --ls-guideline-color: var(--ls-border-color);
   --ls-menu-hover-color: var(--ls-a-chosen-bg);
   --ls-primary-text-color: #24292e;
